@@ -1,11 +1,10 @@
 body {
-body {
-  background-color: #916953 ;
+  background-color: #79745C ;
 }
 
 h1 {
-  color: #DBEBC0;
-  background-color: #CBD4C2;
+  color: #709176;
+  background-color: #CDE77F;
 
 }
 
@@ -35,5 +34,4 @@ li a {
   text-decoration: none;
   padding: 25px 185px;
   font-size: 25px;
-}
 }
